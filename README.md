@@ -20,6 +20,9 @@ contributions.
 
 **Projects**
 
+- [edge-vision-failsafe](https://github.com/vanshaj1999/edge-vision-failsafe): an on-device leaf
+  disease classifier that answers "unknown" instead of guessing. YOLO11n, ONNX, CoreML and TFLite,
+  with out-of-distribution rejection measured on held-out data.
 - [crysto-markets](https://github.com/vanshaj1999/crysto-markets): a demo trading agent on
   Cloudflare Workers. Rule-based strategies, a D1 ledger, MCP tools for Claude, paper trading only.
 - [fitbit-googlehealth-mcp](https://github.com/vanshaj1999/fitbit-googlehealth-mcp): an MCP server
@@ -29,6 +32,9 @@ contributions.
 
 **Open source**
 
+- [awslabs/social-messaging-agent-runtime-toolkit #97](https://github.com/awslabs/social-messaging-agent-runtime-toolkit/pull/97)
+  and [#98](https://github.com/awslabs/social-messaging-agent-runtime-toolkit/pull/98): voice note
+  languages in the assistant blueprint, and a delete confirmation in the admin console
 - [awslabs/stickler #536](https://github.com/awslabs/stickler/pull/536): share validation and
   build logic between model factories
 - [rajfirke/provena #259](https://github.com/rajfirke/provena/pull/259): derive the PostgreSQL
