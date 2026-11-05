@@ -18,12 +18,23 @@ production: the model, the retrieval layer, the API, the database and the cost o
 Most of that work is private client code. The repos here are my own projects and open source
 contributions.
 
+**Projects**
+
+- [crysto-markets](https://github.com/vanshaj1999/crysto-markets): a demo trading agent on
+  Cloudflare Workers. Rule-based strategies, a D1 ledger, MCP tools for Claude, paper trading only.
+- [fitbit-googlehealth-mcp](https://github.com/vanshaj1999/fitbit-googlehealth-mcp): an MCP server
+  for Fitbit and the Google Health API, with insights and a dashboard.
+- [vanshajkakkar.com](https://github.com/vanshaj1999/vanshajkakkar.com): my site, with an
+  "ask about my work" agent behind a budget and a reviewed answer cache.
+
 **Open source**
 
 - [awslabs/stickler #536](https://github.com/awslabs/stickler/pull/536): share validation and
   build logic between model factories
 - [rajfirke/provena #259](https://github.com/rajfirke/provena/pull/259): derive the PostgreSQL
   advisory lock key from the trail
+- [tachibanayu24/fitbit-googlehealth-mcp #1](https://github.com/tachibanayu24/fitbit-googlehealth-mcp/pull/1):
+  Google Health API provider
 
 **Stack:** Python, FastAPI, TypeScript, PostgreSQL, MongoDB, pgvector, AWS serverless with CDK,
 Cloudflare Workers, Docker.
