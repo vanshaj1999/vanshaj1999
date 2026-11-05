@@ -20,6 +20,9 @@ contributions.
 
 **Projects**
 
+- [rag-eval-lab](https://github.com/vanshaj1999/rag-eval-lab): hybrid RAG over the Python
+  PEPs on pgvector, measured on 50 labelled questions. Vector search beat lexical (0.70 against
+  0.36 recall@1), and RRF hybrid did not beat vector on top-1.
 - [edge-vision-failsafe](https://github.com/vanshaj1999/edge-vision-failsafe): an on-device leaf
   disease classifier that answers "unknown" instead of guessing. YOLO11n, ONNX, CoreML and TFLite,
   with out-of-distribution rejection measured on held-out data.
@@ -41,6 +44,11 @@ contributions.
   advisory lock key from the trail
 - [tachibanayu24/fitbit-googlehealth-mcp #1](https://github.com/tachibanayu24/fitbit-googlehealth-mcp/pull/1):
   Google Health API provider
+
+**Writing**
+
+- [I gave 9 free AI coding models the same real bug](https://dev.to/vanshaj1999/i-gave-9-free-ai-coding-models-the-same-real-bug-here-is-what-happened-pk3):
+  hidden tests, diff review, and what the green test runs did not show
 
 **Stack:** Python, FastAPI, TypeScript, PostgreSQL, MongoDB, pgvector, AWS serverless with CDK,
 Cloudflare Workers, Docker.
