@@ -20,7 +20,7 @@ contributions.
 
 **Projects**
 
-- [crysto](https://github.com/vanshaj1999/crysto): my personal AI system. Claude Code, Codex and
+- [crysto](https://github.com/vanshaj1999/crysto): my AI engineering partner and personal assistant. Claude Code, Codex and
   free models work as one team through shared files, a claim protocol and MCP connectors.
 - [rag-eval-lab](https://github.com/vanshaj1999/rag-eval-lab): hybrid RAG over the Python
   PEPs on pgvector, measured on 50 labelled questions. Vector search beat lexical (0.70 against
